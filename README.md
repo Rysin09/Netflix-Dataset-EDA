@@ -31,7 +31,7 @@ This project explores the Netflix dataset to uncover insights about the content 
 ---
 
 ## 📁 Dataset Source
-https://www.kaggle.com/datasets/shivamb/netflix-shows](https://www.kaggle.com/datasets/infamouscoder/dataset-netflix-shows
+[Kaggle](https://www.kaggle.com/datasets/infamouscoder/dataset-netflix-shows)
 
 ---
 
